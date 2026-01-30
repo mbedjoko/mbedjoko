@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bedjoko Michel</h1>
 <h3 align="center">A passionate developer passionate from Cameroon. Building smart apps 🚀 to solve real problems 💻 and innovate daily!developer from cameroon</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mbedjoko&label=Profile%20views&color=0e75b6&style=flat" alt="mbedjoko" /> </p>
-
 - 🔭 I’m currently working on **A ride booking app**
 
 - 🌱 I’m currently learning **React Native, Advanced GSAP animations, and Cloud Firebase**
