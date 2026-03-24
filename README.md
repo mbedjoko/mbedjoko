@@ -35,7 +35,7 @@ My engineering approach prioritizes **maintainability, modularity, and practical
 
 | | |
 |---|---|
-| 🎓 **Degree** | BSc in Software Engineering — ENSPD, Douala |
+| 🎓 **Degree** | BSc in Software Engineering — Catholic University Institute of Buea |
 | 🔭 **Current Work** | Smart Ride Booking App (React Native + Firebase) |
 | 🌱 **Learning** | React Native · Advanced GSAP Animations · Cloud Firebase · Python Fundamentals |
 | 🎯 **Target** |Eng. Degree (Computer & Telecommunication) · MSc in Data Science / AI  |
