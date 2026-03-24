@@ -187,7 +187,7 @@ AI & Machine Learning      ████░░░░░░░░░░░░   Ac
 
 - **CampusConnect**: Git workflow architect for 5-person team
   - Designed branch strategy, taught PR review process
-  - Resolved merge conflicts, mentored 2 junior developers
+  - Resolved merge conflicts, mentored 4 junior developers
   - Zero critical bugs in production branch
   
 - **Smart-RideBooking**: Led technical architecture & team onboarding
